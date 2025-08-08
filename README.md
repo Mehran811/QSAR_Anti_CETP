@@ -43,3 +43,11 @@ All notebooks (except `Data_Curation.ipynb`) are designed for Google Colab to en
 
 ## Acknowledgments
 Special thanks to [Dr. Sina Khosravi](https://github.com/khosravisina/anti_CETP) for the original work on the anti-CETP project, which served as a foundation for this repository.
+
+## About me
+I am a PharmD candidate at Mashhad University of Medical Sciences in Iran, researching cheminformatics and drug discovery.
+
+## Get in contact with me:
+- Email: Mehran.mansouri811@gmail.com
+- Telegram: @Mehran_mns
+- LinkedIn: http://www.linkedin.com/in/mehran-mansouri-4a7579360
