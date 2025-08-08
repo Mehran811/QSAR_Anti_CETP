@@ -1,4 +1,4 @@
-# QSAR for Anti CETP — Data Preparation & Drug Repurposing Pipeline
+# QSAR Project: CETP Inhibitor Discovery, Data Curation & Drug Repurposing Pipeline
 
 ## Abstract
 
