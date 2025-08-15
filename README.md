@@ -74,5 +74,5 @@ I am a PharmD candidate at Mashhad University of Medical Sciences in Iran, resea
 
 ## Get in contact with me:
 - Email: Mehran.mansouri811@gmail.com
-- Telegram: @Mehran_mns
--[LinkedIn](http://www.linkedin.com/in/mehran-mansouri-4a7579360)
+- Telegram: @Mehran_mns  
+- [LinkedIn](http://www.linkedin.com/in/mehran-mansouri-4a7579360)
